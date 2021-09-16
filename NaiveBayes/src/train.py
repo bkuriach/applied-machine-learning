@@ -14,6 +14,6 @@ naivebayes.predict("Nice")
 naivebayes.predict("sad")
 naivebayes.predict("very bad")
 naivebayes.predict("very good")
-naivebayes.predict("nice")
-
+naivebayes.predict("I did not like this movie")
+naivebayes.predict("I would like to see more movies like this")
 
